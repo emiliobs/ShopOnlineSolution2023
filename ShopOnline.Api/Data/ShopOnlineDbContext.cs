@@ -274,7 +274,7 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<User>().HasData(new User
             {
                 Id = 1,
-                UserName = "Bob"
+                UserName = "Emilio"
 
             });
             modelBuilder.Entity<User>().HasData(new User
